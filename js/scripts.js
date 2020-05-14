@@ -92,7 +92,7 @@ var pokemonRepository = (function () {
     $modalBody.append($heightElement);
     $modalBody.append($weightElement);
     $modalBody.append($typesElement);
-  };
+  }
 
   return {
     add,
